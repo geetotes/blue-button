@@ -41,7 +41,7 @@
     "blue-button-cms": "~1.5.2",
     "blue-button-meta": "1.7.0",
     "blue-button-model": "~1.10.0",
-    "blue-button-xml": "~1.8.0",
+    "blue-button-xml": "git://github.com:geetotes/blue-button-xml.git",
     "lodash": "^3.10.0",
     "winston": "~1.0.0"
   },
